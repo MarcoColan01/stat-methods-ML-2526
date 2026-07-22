@@ -28,6 +28,9 @@ Training error decreasing over iterations
 Non-trivial behavior of test error
 Insight into how boosting focuses on hard examples
 Extension
+
+
+
 Study overfitting as number of rounds increases
 
 
